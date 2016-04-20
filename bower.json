@@ -1,0 +1,29 @@
+{
+  "name": "mxtcore",
+  "main": "browser/bundle.js",
+  "version": "0.1.36",
+  "homepage": "https://github.com/martexcoin/mxtcore",
+  "authors": [
+    "Larry Ren (<ren@martexcoin.com>)"
+  ],
+  "description": "Reddcoin Core Library in Javascript",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "martexcoin",
+    "mxtcore",
+    "opal",
+    "bitcoin",
+    "bitcore",
+    "btc",
+    "satoshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ]
+}
