@@ -4,18 +4,18 @@ MXTcore
 [![Build Status](https://travis-ci.org/bitpay/bitcore.svg?branch=master)](https://travis-ci.org/bitpay/bitcore)
 [![Coverage Status](https://img.shields.io/coveralls/bitpay/bitcore.svg)](https://coveralls.io/r/bitpay/bitcore)
 
-A pure, powerful core for your Reddcoin project.
+A pure, powerful core for your MarteXcoin project.
 
-MXTcore is a complete, native interface to the Reddcoin network, and provides the core functionality needed to develop
-apps for Reddcoin.
+MXTcore is a complete, native interface to the MarteXcoin network, and provides the core functionality needed to develop
+apps for MarteXcoin.
 
 #Principles
 
-Reddcoin is a powerful new peer-to-peer platform for the next generation of financial and social technology.
-The decentralized nature of the Reddcoin network allows for highly resilient Reddcoin infrastructure, and the developer
-community needs reliable, open-source tools to implement Reddcoin apps and services.
+MarteXcoin is a powerful new peer-to-peer platform for the next generation of financial and social technology.
+The decentralized nature of the MarteXcoin network allows for highly resilient MarteXcoin infrastructure, and the developer
+community needs reliable, open-source tools to implement MarteXcoin apps and services.
 
-**MXTcore unchains developers from fallible, centralized APIs, and provides the tools to interact with the real Reddcoin network.**
+**MXTcore unchains developers from fallible, centralized APIs, and provides the tools to interact with the real MarteXcoin network.**
 
 #Get Started
 
@@ -25,7 +25,7 @@ MXTcore runs on [node](http://nodejs.org/), and can be installed via [npm](https
 npm install mxtcore
 ```
 
-It is a collection of objects useful to Reddcoin applications; class-like idioms are enabled via[Soop](https://github.com/bitpay/soop).
+It is a collection of objects useful to MarteXcoin applications; class-like idioms are enabled via[Soop](https://github.com/bitpay/soop).
 In most cases, a developer will require the object's class directly. For instance:
 
 ```javascript

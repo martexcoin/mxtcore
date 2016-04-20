@@ -6,7 +6,7 @@
   "authors": [
     "Larry Ren (<ren@martexcoin.com>)"
   ],
-  "description": "Reddcoin Core Library in Javascript",
+  "description": "MarteXcoin Core Library in Javascript",
   "moduleType": [
     "globals"
   ],
